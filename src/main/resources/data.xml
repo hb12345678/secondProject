@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<data>
+    <head>
+        <id>be0fa064-60eb-474c-9f22-8616a5b36790</id>
+        <wsid>SLIS_NB_20190906_05</wsid>
+        <sendtime>201909060955</sendtime>
+        <code>0</code>
+        <msg>成功</msg>
+    </head>
+    <body>
+        <nbdetail>
+            <prtno>10028740023001987</prtno>
+            <appntname>林美</appntname>
+            <insuredname>孝顺宝</insuredname>
+            <polapplydate>2019-09-06</polapplydate>
+            <signdate>2018-03-08</signdate>
+            <totask>契约作业通知书</totask>
+            <contno>138947324983204i2</contno>
+        </nbdetail>
+        <nbdetail>
+            <prtno>10003034237532494234</prtno>
+            <appntname>王微微</appntname>
+            <insuredname>一路阳光</insuredname>
+            <polapplydate>2018-05-02</polapplydate>
+            <signdate>2018-09-01</signdate>
+            <totask>核保决定通知书</totask>
+            <contno>2347978495u0482349</contno>
+        </nbdetail>
+    </body>
+</data>
